@@ -8,7 +8,7 @@ Additionally, without having heard or used FastAI before, I was unaware that it 
 ## Preprocessing Techniques
 To process the data samples obtained in Question 2 from Duck Duck Go, the dataset was decoupled into two data primitives, the Dataloader and Dataset. 
 - Utilising this PyTorch functionality, the modularity of information is signiifcantly increased. 
-- This allows the samples and classes to be stored in the dataset and easily accessed by the Dataloader which iterable. 
+- This allows the samples and classes to be stored in the dataset and easily accessed by the Dataloader which is iterable. 
 
 Using these techniques, large structures of data can be easily accessed and specifically the corresponding classification of the data is aligned.
 Specifically, this allows the obtained data to be structured and allow easy training and modifications using FastAI.
