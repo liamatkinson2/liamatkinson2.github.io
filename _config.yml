@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: Liam Atkinson's ELEC4630 FastAI Exploration
+description: This page documents the investigation and learning processes of a student undertaking initial steps into fast and deep learning algorithms. 
+github_username: liamatkinson2
 
 # Email and twitter are optional:
 email:
